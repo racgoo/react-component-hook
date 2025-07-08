@@ -8,6 +8,22 @@
   "bugs": {
     "url": "https://github.com/racgoo/react-component-hook/issues"
   },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "javascript",
+    "component",
+    "hook",
+    "export",
+    "state",
+    "method",
+    "exportComponent"
+  ],
   "version": "0.1.1",
   "type": "module",
   "main": "dist/index.cjs.js",
