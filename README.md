@@ -5,10 +5,19 @@ Access child state from the parent,
 No prop drilling, no context boilerplate, no pain.**
 
 <div align="center">
+<img width="320" alt="Scry" src="https://github.com/user-attachments/assets/e0faa465-c944-4d94-88cf-74f96b902d23" />
+</div>
+
+
+<div align="center">
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="Version"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
 </div>
+
+Github: [https://github.com/racgoo/scry](https://github.com/racgoo/react-component-hook)
+
+NPM: [https://www.npmjs.com/package/@racgoo/scry](https://www.npmjs.com/package/react-component-hook)
 
 ---
 
@@ -20,7 +29,8 @@ without prop drilling, without context spaghetti, and without breaking React’s
 - **No more prop chains.**
 - **No more context hell.**
 - **Just pure, direct, component-to-component power.**
-  > Stop designing components where children depend on their parent’s logic.
+
+> Stop designing components where children depend on their parent’s logic.
 
 > With react-component-hook, children stay independent—parents can access their state or methods without coupling or prop drilling.
 
