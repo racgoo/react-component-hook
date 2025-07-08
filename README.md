@@ -8,9 +8,8 @@ No prop drilling, no context boilerplate, no pain.**
 <img width="320" alt="Scry" src="https://github.com/user-attachments/assets/e0faa465-c944-4d94-88cf-74f96b902d23" />
 </div>
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/version-0.1.0-blue.svg" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-0.1.1-blue.svg" alt="Version"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
 </div>
