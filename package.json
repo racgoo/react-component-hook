@@ -1,6 +1,13 @@
 {
   "name": "react-component-hook",
-  "private": true,
+  "description": "Access child's state or method without prop drilling",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/racgoo/react-component-hook"
+  },
+  "bugs": {
+    "url": "https://github.com/racgoo/react-component-hook/issues"
+  },
   "version": "0.0.0",
   "type": "module",
   "main": "dist/index.cjs.js",
